@@ -1,6 +1,6 @@
 # VICE API Interview Challenge
 
-### Intermediate
+## Intermediate
 
 Complete this variation of the challenge if submitting for an intermediate engineer role.
 
@@ -14,7 +14,7 @@ Complete this variation of the challenge if submitting for an intermediate engin
 - GraphQL
 - Ability to delete comments
 
-### Senior
+## Senior
 
 Complete this variation of the challenge if submitting for a senior engineer role.
 
