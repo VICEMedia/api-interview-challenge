@@ -20,7 +20,6 @@ Complete this variation of the challenge if submitting for a senior engineer rol
 
 ##### 1. Write a simple REST API in node.js to store anonymous comments in a SQL db
 - Only *list* and *create* (GET, POST)
-- Don't use ORMs
 
 ##### 2. Make a GraphQL API using [apollo-server](https://github.com/apollographql/apollo-server)
 - The GraphQL API should use the REST API from step 1 as a proxy to the db
